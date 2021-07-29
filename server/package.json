@@ -1,0 +1,16 @@
+{
+  "name": "steammarketfilter-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon -L server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mongoose": "^5.13.3",
+    "nodemon": "^2.0.12"
+  }
+}
