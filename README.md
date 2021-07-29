@@ -1,3 +1,3 @@
-# HeliumWatch
+# SteamMarketFilter
 
-A simple app that keeps an eye on a helium miner's earnings.
+A simple app that collects data of steam marketplace items
